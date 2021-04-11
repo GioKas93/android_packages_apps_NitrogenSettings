@@ -25,6 +25,14 @@
             android:fragment="com.nitrogen.settings.fragments.StatusBarSettings" 
             android:icon="@drawable/ic_settings_statusbar"/>
 
+        <!-- Themes -->
+        <Preference
+            android:key="themes_settings"
+            android:title="@string/themes_title"
+            android:summary="@string/themes_summary"
+            android:fragment="com.nitrogen.settings.Themes"
+            android:icon="@drawable/ic_settings_themes" />
+
         <!-- Quick Settings panel -->
         <Preference
             android:key="quicksettings_category"
