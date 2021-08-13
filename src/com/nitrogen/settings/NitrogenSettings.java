@@ -24,7 +24,7 @@ import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.Surface;
-import android.preference.Preference;
+import androidx.preference.Preference;
 import com.android.settings.R;
 import com.nitrogen.settings.preferences.Utils;
 
