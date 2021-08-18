@@ -22,7 +22,7 @@
     <string name="lockscreen_title">Lock screen</string>
     <string name="lockscreen_summary">Lock screen info, pocket mode, fingerprint options</string>
     <string name="misc_title">Miscellaneous</string>
-    <string name="misc_summary">Radio info, usb configuration, switch appearance, aod brightness</string>
+    <string name="misc_summary">Radio info, usb configuration, switch appearance, signature spoofing</string>
     <string name="navbar_title">Navigation bar</string>
     <string name="navbar_summary">Show/hide, invert layout</string>
     <string name="powermenu_title">Power menu</string>
